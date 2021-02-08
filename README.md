@@ -1,5 +1,5 @@
 ## Medicine-Bot
-Chatbot that provides pharmacological information connected to the azure cloud
+Chatbot that provides pharmacological information connected to Azure Cloud
 
 ## Test Environment
 - Bot Framework 4.2.1
